@@ -1,0 +1,6 @@
+Tpye,Name,IP,Role,isActive
+server,k8s-elb,10.230.87.210,lb,1
+server,k8s-master-1,10.230.87.211,master,1
+server,k8s-master-2,10.230.87.212,master,1
+server,k8s-worker-1,10.230.87.214,worker,1
+server,k8s-worker-2,10.230.87.215,worker,1
